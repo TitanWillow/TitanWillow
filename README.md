@@ -1,4 +1,7 @@
 ## Hi there 👋
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=titanwillow&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titanwillow&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=titanwillow&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 **TitanWillow/TitanWillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
