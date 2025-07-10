@@ -1,8 +1,9 @@
-## Hi there 👋
+Hi there 👋
 
 Fullstack Developer who builds fast, breaks less, and ships often.  
+I build things people might actually use -scrapers, dashboards, CLI tools, and automation script.
 Always up for a good bug hunt.
-Let’s build something weird?
+Let’s build something weird !!!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=titanwillow&count_private=true&show_icons=true&theme=tokyonight)
 
